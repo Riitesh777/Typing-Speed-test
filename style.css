@@ -1,0 +1,36 @@
+*{
+  
+  font-family: 'Oswald', sans-serif;}
+   
+/* align-items: center;} */
+/* .container{
+  
+    margin:100px;
+}
+#submit{
+    display:block;
+    margin: 0 auto;
+    padding: 10px;
+} */
+/* .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.box div {
+    width: 100px;
+    height: 100px;
+  } */
+body {background-color:aquamarine;}
+.mywords{
+  border-radius: 10px 10 px 0 0 ;
+  border: 20px solid #554848 ;
+  border-radius: 10px 10px 0 0 ;
+  background-color:bisque; 
+}
+#submit{
+  border:3px solid #554848 ;
+  width: 100px;
+  border-radius: 10px;
+}
